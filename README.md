@@ -19,5 +19,9 @@
 2. Open the project in Unity.
 3. Go to File > Build Settings and select your target platform.
 4. Click Build and choose the output directory.
+## Download and Play
+You can download and play Tilevania Adventure on itch.io:
+
+https://gupta-prasoon.itch.io/tilevania-adventure
 
 Enjoy playing Tilevania and feel free to contribute or provide feedback!
